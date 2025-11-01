@@ -1,0 +1,2442 @@
+[
+  {
+    "title": "10cc",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/10cc.txt"
+  },
+  {
+    "title": "10 Years (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/10_Years_(band).txt"
+  },
+  {
+    "title": "3 Doors Down",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/3_Doors_Down.txt"
+  },
+  {
+    "title": "311 (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/311_(band).txt"
+  },
+  {
+    "title": "38 Special (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/38_Special_(band).txt"
+  },
+  {
+    "title": "ABBA",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/ABBA.txt"
+  },
+  {
+    "title": "Accept (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Accept_(band).txt"
+  },
+  {
+    "title": "AC/DC",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/ACDC.txt"
+  },
+  {
+    "title": "Bryan Adams",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bryan_Adams.txt"
+  },
+  {
+    "title": "Aerosmith",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Aerosmith.txt"
+  },
+  {
+    "title": "AFI (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/AFI_(band).txt"
+  },
+  {
+    "title": "Air Supply",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Air_Supply.txt"
+  },
+  {
+    "title": "The Alan Parsons Project",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Alan_Parsons_Project.txt"
+  },
+  {
+    "title": "Alice in Chains",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Alice_in_Chains.txt"
+  },
+  {
+    "title": "The All-American Rejects",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_All-American_Rejects.txt"
+  },
+  {
+    "title": "The Allman Brothers Band",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Allman_Brothers_Band.txt"
+  },
+  {
+    "title": "Alter Bridge",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Alter_Bridge.txt"
+  },
+  {
+    "title": "Ambrosia (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ambrosia_(band).txt"
+  },
+  {
+    "title": "America (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/America_(band).txt"
+  },
+  {
+    "title": "The Animals",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Animals.txt"
+  },
+  {
+    "title": "Adam Ant",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Adam_Ant.txt"
+  },
+  {
+    "title": "Anthrax (American band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Anthrax_(American_band).txt"
+  },
+  {
+    "title": "April Wine",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/April_Wine.txt"
+  },
+  {
+    "title": "Arcade Fire",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Arcade_Fire.txt"
+  },
+  {
+    "title": "Arctic Monkeys",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Arctic_Monkeys.txt"
+  },
+  {
+    "title": "Asia (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Asia_(band).txt"
+  },
+  {
+    "title": "Audioslave",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Audioslave.txt"
+  },
+  {
+    "title": "Avenged Sevenfold",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Avenged_Sevenfold.txt"
+  },
+  {
+    "title": "Awolnation",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Awolnation.txt"
+  },
+  {
+    "title": "The B-52's",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_B-52's.txt"
+  },
+  {
+    "title": "Bachman–Turner Overdrive",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bachman–Turner_Overdrive.txt"
+  },
+  {
+    "title": "Bad Company",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bad_Company.txt"
+  },
+  {
+    "title": "Badfinger",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Badfinger.txt"
+  },
+  {
+    "title": "The Band",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Band.txt"
+  },
+  {
+    "title": "The Bangles",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Bangles.txt"
+  },
+  {
+    "title": "Barenaked Ladies",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Barenaked_Ladies.txt"
+  },
+  {
+    "title": "Bay City Rollers",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bay_City_Rollers.txt"
+  },
+  {
+    "title": "The Beach Boys",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Beach_Boys.txt"
+  },
+  {
+    "title": "Beastie Boys",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Beastie_Boys.txt"
+  },
+  {
+    "title": "The Beatles",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Beatles.txt"
+  },
+  {
+    "title": "Bee Gees",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bee_Gees.txt"
+  },
+  {
+    "title": "Beck",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Beck.txt"
+  },
+  {
+    "title": "Ben Folds Five",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ben_Folds_Five.txt"
+  },
+  {
+    "title": "Pat Benatar",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Pat_Benatar.txt"
+  },
+  {
+    "title": "Chuck Berry",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Chuck_Berry.txt"
+  },
+  {
+    "title": "The Big Bopper",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Big_Bopper.txt"
+  },
+  {
+    "title": "Billy Talent",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Billy_Talent.txt"
+  },
+  {
+    "title": "The Black Crowes",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Black_Crowes.txt"
+  },
+  {
+    "title": "The Black Keys",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Black_Keys.txt"
+  },
+  {
+    "title": "Black Sabbath",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Black_Sabbath.txt"
+  },
+  {
+    "title": "Black Stone Cherry",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Black_Stone_Cherry.txt"
+  },
+  {
+    "title": "Black Veil Brides",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Black_Veil_Brides.txt"
+  },
+  {
+    "title": "Blink-182",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Blink-182.txt"
+  },
+  {
+    "title": "Blondie (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Blondie_(band).txt"
+  },
+  {
+    "title": "Bloodhound Gang",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bloodhound_Gang.txt"
+  },
+  {
+    "title": "Blue October",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Blue_October.txt"
+  },
+  {
+    "title": "Blue Öyster Cult",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Blue_Öyster_Cult.txt"
+  },
+  {
+    "title": "Blues Traveler",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Blues_Traveler.txt"
+  },
+  {
+    "title": "James Blunt",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/James_Blunt.txt"
+  },
+  {
+    "title": "Blur (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Blur_(band).txt"
+  },
+  {
+    "title": "Bon Jovi",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bon_Jovi.txt"
+  },
+  {
+    "title": "Boston (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Boston_(band).txt"
+  },
+  {
+    "title": "David Bowie",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/David_Bowie.txt"
+  },
+  {
+    "title": "Bowling for Soup",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bowling_for_Soup.txt"
+  },
+  {
+    "title": "The Boxtones",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Boxtones.txt"
+  },
+  {
+    "title": "Boys Like Girls",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Boys_Like_Girls.txt"
+  },
+  {
+    "title": "Bread (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bread_(band).txt"
+  },
+  {
+    "title": "Breaking Benjamin",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Breaking_Benjamin.txt"
+  },
+  {
+    "title": "Bring Me the Horizon",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bring_Me_the_Horizon.txt"
+  },
+  {
+    "title": "Jackson Browne",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jackson_Browne.txt"
+  },
+  {
+    "title": "Buckcherry",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Buckcherry.txt"
+  },
+  {
+    "title": "Jeff Buckley",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jeff_Buckley.txt"
+  },
+  {
+    "title": "Bullet for My Valentine",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bullet_for_My_Valentine.txt"
+  },
+  {
+    "title": "Chris de Burgh",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Chris_de_Burgh.txt"
+  },
+  {
+    "title": "Bush (British band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bush_(British_band).txt"
+  },
+  {
+    "title": "The Byrds",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Byrds.txt"
+  },
+  {
+    "title": "Cage the Elephant",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Cage_the_Elephant.txt"
+  },
+  {
+    "title": "Cake (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Cake_(band).txt"
+  },
+  {
+    "title": "Canned Heat",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Canned_Heat.txt"
+  },
+  {
+    "title": "The Cab",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Cab.txt"
+  },
+  {
+    "title": "The Cardigans",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Cardigans.txt"
+  },
+  {
+    "title": "The Cars",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Cars.txt"
+  },
+  {
+    "title": "Catfish and the Bottlemen",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Catfish_and_the_Bottlemen.txt"
+  },
+  {
+    "title": "Harry Chapin",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Harry_Chapin.txt"
+  },
+  {
+    "title": "Tracy Chapman",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Tracy_Chapman.txt"
+  },
+  {
+    "title": "Cheap Trick",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Cheap_Trick.txt"
+  },
+  {
+    "title": "Chevelle (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Chevelle_(band).txt"
+  },
+  {
+    "title": "Chicago (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Chicago_(band).txt"
+  },
+  {
+    "title": "Chubby Checker",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Chubby_Checker.txt"
+  },
+  {
+    "title": "Cinderella (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Cinderella_(band).txt"
+  },
+  {
+    "title": "Dallas Green (musician)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Dallas_Green_(musician).txt"
+  },
+  {
+    "title": "Eric Clapton",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Eric_Clapton.txt"
+  },
+  {
+    "title": "The Clash",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Clash.txt"
+  },
+  {
+    "title": "Eddie Cochran",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Eddie_Cochran.txt"
+  },
+  {
+    "title": "Joe Cocker",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Joe_Cocker.txt"
+  },
+  {
+    "title": "Coheed and Cambria",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Coheed_and_Cambria.txt"
+  },
+  {
+    "title": "Cold Chisel",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Cold_Chisel.txt"
+  },
+  {
+    "title": "Coldplay",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Coldplay.txt"
+  },
+  {
+    "title": "Collective Soul",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Collective_Soul.txt"
+  },
+  {
+    "title": "Phil Collins",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Phil_Collins.txt"
+  },
+  {
+    "title": "Alice Cooper",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Alice_Cooper.txt"
+  },
+  {
+    "title": "Alice Cooper (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Alice_Cooper_(band).txt"
+  },
+  {
+    "title": "Chris Cornell",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Chris_Cornell.txt"
+  },
+  {
+    "title": "Elvis Costello",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Elvis_Costello.txt"
+  },
+  {
+    "title": "Counting Crows",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Counting_Crows.txt"
+  },
+  {
+    "title": "The Cranberries",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Cranberries.txt"
+  },
+  {
+    "title": "Crash Test Dummies",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Crash_Test_Dummies.txt"
+  },
+  {
+    "title": "Cream (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Cream_(band).txt"
+  },
+  {
+    "title": "Creed (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Creed_(band).txt"
+  },
+  {
+    "title": "Creedence Clearwater Revival",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Creedence_Clearwater_Revival.txt"
+  },
+  {
+    "title": "Jim Croce",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jim_Croce.txt"
+  },
+  {
+    "title": "Crosby, Stills, Nash & Young",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Crosby,_Stills,_Nash_&_Young.txt"
+  },
+  {
+    "title": "Christopher Cross",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Christopher_Cross.txt"
+  },
+  {
+    "title": "Sheryl Crow",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sheryl_Crow.txt"
+  },
+  {
+    "title": "Crowded House",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Crowded_House.txt"
+  },
+  {
+    "title": "The Cult",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Cult.txt"
+  },
+  {
+    "title": "The Cure",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Cure.txt"
+  },
+  {
+    "title": "Damn Yankees (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Damn_Yankees_(band).txt"
+  },
+  {
+    "title": "Charlie Daniels",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Charlie_Daniels.txt"
+  },
+  {
+    "title": "Dashboard Confessional",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Dashboard_Confessional.txt"
+  },
+  {
+    "title": "Daughtry (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Daughtry_(band).txt"
+  },
+  {
+    "title": "The Dave Clark Five",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Dave_Clark_Five.txt"
+  },
+  {
+    "title": "Dave Matthews Band",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Dave_Matthews_Band.txt"
+  },
+  {
+    "title": "Days of the New",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Days_of_the_New.txt"
+  },
+  {
+    "title": "Death Cab for Cutie",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Death_Cab_for_Cutie.txt"
+  },
+  {
+    "title": "Deep Purple",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Deep_Purple.txt"
+  },
+  {
+    "title": "Def Leppard",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Def_Leppard.txt"
+  },
+  {
+    "title": "Deftones",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Deftones.txt"
+  },
+  {
+    "title": "Depeche Mode",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Depeche_Mode.txt"
+  },
+  {
+    "title": "Bo Diddley",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bo_Diddley.txt"
+  },
+  {
+    "title": "Dio (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Dio_(band).txt"
+  },
+  {
+    "title": "Dire Straits",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Dire_Straits.txt"
+  },
+  {
+    "title": "Disturbed (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Disturbed_(band).txt"
+  },
+  {
+    "title": "Fats Domino",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Fats_Domino.txt"
+  },
+  {
+    "title": "Donovan",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Donovan.txt"
+  },
+  {
+    "title": "The Doobie Brothers",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Doobie_Brothers.txt"
+  },
+  {
+    "title": "The Doors",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Doors.txt"
+  },
+  {
+    "title": "Dr. Hook & the Medicine Show",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Dr._Hook_&_the_Medicine_Show.txt"
+  },
+  {
+    "title": "Dropkick Murphys",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Dropkick_Murphys.txt"
+  },
+  {
+    "title": "Drowning Pool",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Drowning_Pool.txt"
+  },
+  {
+    "title": "Duran Duran",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Duran_Duran.txt"
+  },
+  {
+    "title": "Ian Dury",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ian_Dury.txt"
+  },
+  {
+    "title": "Bob Dylan",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bob_Dylan.txt"
+  },
+  {
+    "title": "Eagles (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Eagles_(band).txt"
+  },
+  {
+    "title": "Echo & the Bunnymen",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Echo_&_the_Bunnymen.txt"
+  },
+  {
+    "title": "Duane Eddy",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Duane_Eddy.txt"
+  },
+  {
+    "title": "Edgar Winter",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Edgar_Winter.txt"
+  },
+  {
+    "title": "Electric Light Orchestra",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Electric_Light_Orchestra.txt"
+  },
+  {
+    "title": "Emerson, Lake & Palmer",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Emerson,_Lake_&_Palmer.txt"
+  },
+  {
+    "title": "England Dan & John Ford Coley",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/England_Dan_&_John_Ford_Coley.txt"
+  },
+  {
+    "title": "Melissa Etheridge",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Melissa_Etheridge.txt"
+  },
+  {
+    "title": "Europe (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Europe_(band).txt"
+  },
+  {
+    "title": "Evanescence",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Evanescence.txt"
+  },
+  {
+    "title": "Everclear (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Everclear_(band).txt"
+  },
+  {
+    "title": "Everlast",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Everlast.txt"
+  },
+  {
+    "title": "The Everly Brothers",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Everly_Brothers.txt"
+  },
+  {
+    "title": "Extreme (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Extreme_(band).txt"
+  },
+  {
+    "title": "Faces (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Faces_(band).txt"
+  },
+  {
+    "title": "Faith No More",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Faith_No_More.txt"
+  },
+  {
+    "title": "Fall Out Boy",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Fall_Out_Boy.txt"
+  },
+  {
+    "title": "Bryan Ferry",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bryan_Ferry.txt"
+  },
+  {
+    "title": "Filter (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Filter_(band).txt"
+  },
+  {
+    "title": "Finger Eleven",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Finger_Eleven.txt"
+  },
+  {
+    "title": "FireHouse",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/FireHouse.txt"
+  },
+  {
+    "title": "Five Finger Death Punch",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Five_Finger_Death_Punch.txt"
+  },
+  {
+    "title": "Five for Fighting",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Five_for_Fighting.txt"
+  },
+  {
+    "title": "The Fixx",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Fixx.txt"
+  },
+  {
+    "title": "The Flaming Lips",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Flaming_Lips.txt"
+  },
+  {
+    "title": "Fleetwood Mac",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Fleetwood_Mac.txt"
+  },
+  {
+    "title": "Flogging Molly",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Flogging_Molly.txt"
+  },
+  {
+    "title": "Florence and the Machine",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Florence_and_the_Machine.txt"
+  },
+  {
+    "title": "Flyleaf (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Flyleaf_(band).txt"
+  },
+  {
+    "title": "Foals (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Foals_(band).txt"
+  },
+  {
+    "title": "Dan Fogelberg",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Dan_Fogelberg.txt"
+  },
+  {
+    "title": "John Fogerty",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/John_Fogerty.txt"
+  },
+  {
+    "title": "Foo Fighters",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Foo_Fighters.txt"
+  },
+  {
+    "title": "Foreigner (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Foreigner_(band).txt"
+  },
+  {
+    "title": "Foster the People",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Foster_the_People.txt"
+  },
+  {
+    "title": "The Four Seasons (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Four_Seasons_(band).txt"
+  },
+  {
+    "title": "Peter Frampton",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Peter_Frampton.txt"
+  },
+  {
+    "title": "Franz Ferdinand (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Franz_Ferdinand_(band).txt"
+  },
+  {
+    "title": "The Fray",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Fray.txt"
+  },
+  {
+    "title": "Glenn Frey",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Glenn_Frey.txt"
+  },
+  {
+    "title": "Fuel (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Fuel_(band).txt"
+  },
+  {
+    "title": "Fun (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Fun_(band).txt"
+  },
+  {
+    "title": "Funkadelic",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Funkadelic.txt"
+  },
+  {
+    "title": "Peter Gabriel",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Peter_Gabriel.txt"
+  },
+  {
+    "title": "Garbage (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Garbage_(band).txt"
+  },
+  {
+    "title": "Genesis (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Genesis_(band).txt"
+  },
+  {
+    "title": "Ghost (Swedish band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ghost_(Swedish_band).txt"
+  },
+  {
+    "title": "Gin Blossoms",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Gin_Blossoms.txt"
+  },
+  {
+    "title": "Gary Glitter",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Gary_Glitter.txt"
+  },
+  {
+    "title": "The Go-Go's",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Go-Go's.txt"
+  },
+  {
+    "title": "Godsmack",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Godsmack.txt"
+  },
+  {
+    "title": "Golden Earring",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Golden_Earring.txt"
+  },
+  {
+    "title": "Goo Goo Dolls",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Goo_Goo_Dolls.txt"
+  },
+  {
+    "title": "Good Charlotte",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Good_Charlotte.txt"
+  },
+  {
+    "title": "Grand Funk Railroad",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Grand_Funk_Railroad.txt"
+  },
+  {
+    "title": "Grateful Dead",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Grateful_Dead.txt"
+  },
+  {
+    "title": "Great White",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Great_White.txt"
+  },
+  {
+    "title": "Green Day",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Green_Day.txt"
+  },
+  {
+    "title": "Greta Van Fleet",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Greta_Van_Fleet.txt"
+  },
+  {
+    "title": "The Guess Who",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Guess_Who.txt"
+  },
+  {
+    "title": "Guns N' Roses",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Guns_N'_Roses.txt"
+  },
+  {
+    "title": "Halestorm",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Halestorm.txt"
+  },
+  {
+    "title": "Bill Haley & His Comets",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bill_Haley_&_His_Comets.txt"
+  },
+  {
+    "title": "Hall & Oates",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Hall_&_Oates.txt"
+  },
+  {
+    "title": "George Harrison",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/George_Harrison.txt"
+  },
+  {
+    "title": "Heart (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Heart_(band).txt"
+  },
+  {
+    "title": "Jimi Hendrix",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jimi_Hendrix.txt"
+  },
+  {
+    "title": "Don Henley",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Don_Henley.txt"
+  },
+  {
+    "title": "Herman's Hermits",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Herman's_Hermits.txt"
+  },
+  {
+    "title": "Highly Suspect",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Highly_Suspect.txt"
+  },
+  {
+    "title": "Hinder",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Hinder.txt"
+  },
+  {
+    "title": "The Hives",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Hives.txt"
+  },
+  {
+    "title": "Hole (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Hole_(band).txt"
+  },
+  {
+    "title": "The Hollies",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Hollies.txt"
+  },
+  {
+    "title": "Buddy Holly",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Buddy_Holly.txt"
+  },
+  {
+    "title": "Hoobastank",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Hoobastank.txt"
+  },
+  {
+    "title": "Hootie & the Blowfish",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Hootie_&_the_Blowfish.txt"
+  },
+  {
+    "title": "Icehouse (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Icehouse_(band).txt"
+  },
+  {
+    "title": "Billy Idol",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Billy_Idol.txt"
+  },
+  {
+    "title": "Imagine Dragons",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Imagine_Dragons.txt"
+  },
+  {
+    "title": "Incubus (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Incubus_(band).txt"
+  },
+  {
+    "title": "Interpol (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Interpol_(band).txt"
+  },
+  {
+    "title": "INXS",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/INXS.txt"
+  },
+  {
+    "title": "Iron Maiden",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Iron_Maiden.txt"
+  },
+  {
+    "title": "The J. Geils Band",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_J._Geils_Band.txt"
+  },
+  {
+    "title": "The Jam",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Jam.txt"
+  },
+  {
+    "title": "Tommy James and the Shondells",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Tommy_James_and_the_Shondells.txt"
+  },
+  {
+    "title": "Jane's Addiction",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jane's_Addiction.txt"
+  },
+  {
+    "title": "Jefferson Airplane",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jefferson_Airplane.txt"
+  },
+  {
+    "title": "Jefferson Starship",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jefferson_Starship.txt"
+  },
+  {
+    "title": "The Jesus and Mary Chain",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Jesus_and_Mary_Chain.txt"
+  },
+  {
+    "title": "Jet (Australian band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jet_(Australian_band).txt"
+  },
+  {
+    "title": "Jethro Tull (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jethro_Tull_(band).txt"
+  },
+  {
+    "title": "Joan Jett",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Joan_Jett.txt"
+  },
+  {
+    "title": "Jimmy Eat World",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jimmy_Eat_World.txt"
+  },
+  {
+    "title": "Billy Joel",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Billy_Joel.txt"
+  },
+  {
+    "title": "Elton John",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Elton_John.txt"
+  },
+  {
+    "title": "Janis Joplin",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Janis_Joplin.txt"
+  },
+  {
+    "title": "Journey (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Journey_(band).txt"
+  },
+  {
+    "title": "Joy Division",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Joy_Division.txt"
+  },
+  {
+    "title": "Judas Priest",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Judas_Priest.txt"
+  },
+  {
+    "title": "Kaiser Chiefs",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Kaiser_Chiefs.txt"
+  },
+  {
+    "title": "Kaleo (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Kaleo_(band).txt"
+  },
+  {
+    "title": "Kansas (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Kansas_(band).txt"
+  },
+  {
+    "title": "Keane (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Keane_(band).txt"
+  },
+  {
+    "title": "Kid Rock",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Kid_Rock.txt"
+  },
+  {
+    "title": "The Killers",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Killers.txt"
+  },
+  {
+    "title": "Killswitch Engage",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Killswitch_Engage.txt"
+  },
+  {
+    "title": "Kings of Leon",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Kings_of_Leon.txt"
+  },
+  {
+    "title": "The Kinks",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Kinks.txt"
+  },
+  {
+    "title": "Kiss (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Kiss_(band).txt"
+  },
+  {
+    "title": "Korn",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Korn.txt"
+  },
+  {
+    "title": "Lenny Kravitz",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Lenny_Kravitz.txt"
+  },
+  {
+    "title": "Lacuna Coil",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Lacuna_Coil.txt"
+  },
+  {
+    "title": "Lamb of God (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Lamb_of_God_(band).txt"
+  },
+  {
+    "title": "Avril Lavigne",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Avril_Lavigne.txt"
+  },
+  {
+    "title": "Led Zeppelin",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Led_Zeppelin.txt"
+  },
+  {
+    "title": "John Lennon",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/John_Lennon.txt"
+  },
+  {
+    "title": "Huey Lewis and the News",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Huey_Lewis_and_the_News.txt"
+  },
+  {
+    "title": "Jerry Lee Lewis",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jerry_Lee_Lewis.txt"
+  },
+  {
+    "title": "Lifehouse (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Lifehouse_(band).txt"
+  },
+  {
+    "title": "Limp Bizkit",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Limp_Bizkit.txt"
+  },
+  {
+    "title": "Linkin Park",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Linkin_Park.txt"
+  },
+  {
+    "title": "Little Richard",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Little_Richard.txt"
+  },
+  {
+    "title": "Little River Band",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Little_River_Band.txt"
+  },
+  {
+    "title": "Live (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Live_(band).txt"
+  },
+  {
+    "title": "Living Colour",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Living_Colour.txt"
+  },
+  {
+    "title": "Kenny Loggins",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Kenny_Loggins.txt"
+  },
+  {
+    "title": "Loverboy",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Loverboy.txt"
+  },
+  {
+    "title": "The Lovin' Spoonful",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Lovin'_Spoonful.txt"
+  },
+  {
+    "title": "The Lumineers",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Lumineers.txt"
+  },
+  {
+    "title": "Lynyrd Skynyrd",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Lynyrd_Skynyrd.txt"
+  },
+  {
+    "title": "The Mamas & the Papas",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Mamas_&_the_Papas.txt"
+  },
+  {
+    "title": "Manfred Mann",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Manfred_Mann.txt"
+  },
+  {
+    "title": "Manfred Mann (musician)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Manfred_Mann_(musician).txt"
+  },
+  {
+    "title": "Manfred Mann's Earth Band",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Manfred_Mann's_Earth_Band.txt"
+  },
+  {
+    "title": "Manfred Mann Chapter Three",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Manfred_Mann_Chapter_Three.txt"
+  },
+  {
+    "title": "Marilyn Manson",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Marilyn_Manson.txt"
+  },
+  {
+    "title": "Marilyn Manson (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Marilyn_Manson_(band).txt"
+  },
+  {
+    "title": "The Marshall Tucker Band",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Marshall_Tucker_Band.txt"
+  },
+  {
+    "title": "Matchbox Twenty",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Matchbox_Twenty.txt"
+  },
+  {
+    "title": "John Mayer",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/John_Mayer.txt"
+  },
+  {
+    "title": "John Mayall",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/John_Mayall.txt"
+  },
+  {
+    "title": "John Mayall & the Bluesbreakers",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/John_Mayall_&_the_Bluesbreakers.txt"
+  },
+  {
+    "title": "Paul McCartney",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Paul_McCartney.txt"
+  },
+  {
+    "title": "Meat Loaf",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Meat_Loaf.txt"
+  },
+  {
+    "title": "Megadeth",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Megadeth.txt"
+  },
+  {
+    "title": "John Mellencamp",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/John_Mellencamp.txt"
+  },
+  {
+    "title": "Men at Work",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Men_at_Work.txt"
+  },
+  {
+    "title": "Metallica",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Metallica.txt"
+  },
+  {
+    "title": "Midnight Oil",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Midnight_Oil.txt"
+  },
+  {
+    "title": "Mike and the Mechanics",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Mike_and_the_Mechanics.txt"
+  },
+  {
+    "title": "Modest Mouse",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Modest_Mouse.txt"
+  },
+  {
+    "title": "Eddie Money",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Eddie_Money.txt"
+  },
+  {
+    "title": "The Monkees",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Monkees.txt"
+  },
+  {
+    "title": "Montgomery Gentry",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Montgomery_Gentry.txt"
+  },
+  {
+    "title": "The Moody Blues",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Moody_Blues.txt"
+  },
+  {
+    "title": "Alanis Morissette",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Alanis_Morissette.txt"
+  },
+  {
+    "title": "Van Morrison",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Van_Morrison.txt"
+  },
+  {
+    "title": "Morrissey",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Morrissey.txt"
+  },
+  {
+    "title": "The Mothers of Invention",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Mothers_of_Invention.txt"
+  },
+  {
+    "title": "Mötley Crüe",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Mötley_Crüe.txt"
+  },
+  {
+    "title": "Motörhead",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Motörhead.txt"
+  },
+  {
+    "title": "Mudvayne",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Mudvayne.txt"
+  },
+  {
+    "title": "Mumford & Sons",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Mumford_&_Sons.txt"
+  },
+  {
+    "title": "Michael Martin Murphey",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Michael_Martin_Murphey.txt"
+  },
+  {
+    "title": "Muse (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Muse_(band).txt"
+  },
+  {
+    "title": "My Chemical Romance",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/My_Chemical_Romance.txt"
+  },
+  {
+    "title": "New York Dolls",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/New_York_Dolls.txt"
+  },
+  {
+    "title": "Nickelback",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Nickelback.txt"
+  },
+  {
+    "title": "Stevie Nicks",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Stevie_Nicks.txt"
+  },
+  {
+    "title": "Harry Nilsson",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Harry_Nilsson.txt"
+  },
+  {
+    "title": "Nine Inch Nails",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Nine_Inch_Nails.txt"
+  },
+  {
+    "title": "Nirvana (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Nirvana_(band).txt"
+  },
+  {
+    "title": "No Doubt",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/No_Doubt.txt"
+  },
+  {
+    "title": "Ted Nugent",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ted_Nugent.txt"
+  },
+  {
+    "title": "Oasis (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Oasis_(band).txt"
+  },
+  {
+    "title": "The Offspring",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Offspring.txt"
+  },
+  {
+    "title": "Roy Orbison",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Roy_Orbison.txt"
+  },
+  {
+    "title": "Ozzy Osbourne",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ozzy_Osbourne.txt"
+  },
+  {
+    "title": "Our Lady Peace",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Our_Lady_Peace.txt"
+  },
+  {
+    "title": "The Outfield",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Outfield.txt"
+  },
+  {
+    "title": "P.O.D.",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/P.O.D..txt"
+  },
+  {
+    "title": "Panic! at the Disco",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Panic!_at_the_Disco.txt"
+  },
+  {
+    "title": "Pantera",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Pantera.txt"
+  },
+  {
+    "title": "Papa Roach",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Papa_Roach.txt"
+  },
+  {
+    "title": "Paramore",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Paramore.txt"
+  },
+  {
+    "title": "Parliament (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Parliament_(band).txt"
+  },
+  {
+    "title": "Parliament-Funkadelic",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Parliament-Funkadelic.txt"
+  },
+  {
+    "title": "Pearl Jam",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Pearl_Jam.txt"
+  },
+  {
+    "title": "A Perfect Circle",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/A_Perfect_Circle.txt"
+  },
+  {
+    "title": "Tom Petty",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Tom_Petty.txt"
+  },
+  {
+    "title": "Tom Petty and the Heartbreakers",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Tom_Petty_and_the_Heartbreakers.txt"
+  },
+  {
+    "title": "Pink Floyd",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Pink_Floyd.txt"
+  },
+  {
+    "title": "Pixies (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Pixies_(band).txt"
+  },
+  {
+    "title": "Robert Plant",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Robert_Plant.txt"
+  },
+  {
+    "title": "Poison (American band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Poison_(American_band).txt"
+  },
+  {
+    "title": "The Police",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Police.txt"
+  },
+  {
+    "title": "Iggy Pop",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Iggy_Pop.txt"
+  },
+  {
+    "title": "Pop Evil",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Pop_Evil.txt"
+  },
+  {
+    "title": "The Presidents of the United States of America (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Presidents_of_the_United_States_of_America_(band).txt"
+  },
+  {
+    "title": "The Pretenders",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Pretenders.txt"
+  },
+  {
+    "title": "Elvis Presley",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Elvis_Presley.txt"
+  },
+  {
+    "title": "The Pretty Reckless",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Pretty_Reckless.txt"
+  },
+  {
+    "title": "Primus (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Primus_(band).txt"
+  },
+  {
+    "title": "Puddle of Mudd",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Puddle_of_Mudd.txt"
+  },
+  {
+    "title": "Queen (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Queen_(band).txt"
+  },
+  {
+    "title": "Queens of the Stone Age",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Queens_of_the_Stone_Age.txt"
+  },
+  {
+    "title": "Queensrÿche",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Queensrÿche.txt"
+  },
+  {
+    "title": "Quiet Riot",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Quiet_Riot.txt"
+  },
+  {
+    "title": "R.E.M.",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/R.E.M..txt"
+  },
+  {
+    "title": "Radiohead",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Radiohead.txt"
+  },
+  {
+    "title": "Rage Against the Machine",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Rage_Against_the_Machine.txt"
+  },
+  {
+    "title": "Rainbow (rock band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Rainbow_(rock_band).txt"
+  },
+  {
+    "title": "Rammstein",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Rammstein.txt"
+  },
+  {
+    "title": "Ramones",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ramones.txt"
+  },
+  {
+    "title": "Ratt",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ratt.txt"
+  },
+  {
+    "title": "Red Hot Chili Peppers",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Red_Hot_Chili_Peppers.txt"
+  },
+  {
+    "title": "Lou Reed",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Lou_Reed.txt"
+  },
+  {
+    "title": "REO Speedwagon",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/REO_Speedwagon.txt"
+  },
+  {
+    "title": "Chris Rea",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Chris_Rea.txt"
+  },
+  {
+    "title": "Rise Against",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Rise_Against.txt"
+  },
+  {
+    "title": "Sixto Rodriguez",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sixto_Rodriguez.txt"
+  },
+  {
+    "title": "The Rolling Stones",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Rolling_Stones.txt"
+  },
+  {
+    "title": "Linda Ronstadt",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Linda_Ronstadt.txt"
+  },
+  {
+    "title": "Roxy Music",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Roxy_Music.txt"
+  },
+  {
+    "title": "Royal Blood (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Royal_Blood_(band).txt"
+  },
+  {
+    "title": "Run-DMC",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Run-DMC.txt"
+  },
+  {
+    "title": "Rush (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Rush_(band).txt"
+  },
+  {
+    "title": "Mitch Ryder",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Mitch_Ryder.txt"
+  },
+  {
+    "title": "Saliva (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Saliva_(band).txt"
+  },
+  {
+    "title": "Sam Fender",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sam_Fender.txt"
+  },
+  {
+    "title": "Santana (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Santana_(band).txt"
+  },
+  {
+    "title": "Joe Satriani",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Joe_Satriani.txt"
+  },
+  {
+    "title": "Saving Abel",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Saving_Abel.txt"
+  },
+  {
+    "title": "Scorpions (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Scorpions_(band).txt"
+  },
+  {
+    "title": "The Script",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Script.txt"
+  },
+  {
+    "title": "Seether",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Seether.txt"
+  },
+  {
+    "title": "Bob Seger",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bob_Seger.txt"
+  },
+  {
+    "title": "Sepultura",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sepultura.txt"
+  },
+  {
+    "title": "Sex Pistols",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sex_Pistols.txt"
+  },
+  {
+    "title": "Shakin' Stevens",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Shakin'_Stevens.txt"
+  },
+  {
+    "title": "Shinedown",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Shinedown.txt"
+  },
+  {
+    "title": "Silverchair",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Silverchair.txt"
+  },
+  {
+    "title": "Simon & Garfunkel",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Simon_&_Garfunkel.txt"
+  },
+  {
+    "title": "Simple Minds",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Simple_Minds.txt"
+  },
+  {
+    "title": "Simple Plan",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Simple_Plan.txt"
+  },
+  {
+    "title": "Skid Row (American band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Skid_Row_(American_band).txt"
+  },
+  {
+    "title": "Skillet (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Skillet_(band).txt"
+  },
+  {
+    "title": "Slade",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Slade.txt"
+  },
+  {
+    "title": "Slayer",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Slayer.txt"
+  },
+  {
+    "title": "Slipknot (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Slipknot_(band).txt"
+  },
+  {
+    "title": "Sly and the Family Stone",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sly_and_the_Family_Stone.txt"
+  },
+  {
+    "title": "Small Faces",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Small_Faces.txt"
+  },
+  {
+    "title": "Smash Mouth",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Smash_Mouth.txt"
+  },
+  {
+    "title": "The Smashing Pumpkins",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Smashing_Pumpkins.txt"
+  },
+  {
+    "title": "The Smiths",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Smiths.txt"
+  },
+  {
+    "title": "Smokie (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Smokie_(band).txt"
+  },
+  {
+    "title": "Snow Patrol",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Snow_Patrol.txt"
+  },
+  {
+    "title": "Social Distortion",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Social_Distortion.txt"
+  },
+  {
+    "title": "Sonic Youth",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sonic_Youth.txt"
+  },
+  {
+    "title": "Soundgarden",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Soundgarden.txt"
+  },
+  {
+    "title": "Bruce Springsteen",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Bruce_Springsteen.txt"
+  },
+  {
+    "title": "Billy Squier",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Billy_Squier.txt"
+  },
+  {
+    "title": "Staind",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Staind.txt"
+  },
+  {
+    "title": "Ringo Starr",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ringo_Starr.txt"
+  },
+  {
+    "title": "Starset",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Starset.txt"
+  },
+  {
+    "title": "Starship (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Starship_(band).txt"
+  },
+  {
+    "title": "Status Quo (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Status_Quo_(band).txt"
+  },
+  {
+    "title": "Steely Dan",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Steely_Dan.txt"
+  },
+  {
+    "title": "Steppenwolf (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Steppenwolf_(band).txt"
+  },
+  {
+    "title": "Steve Miller Band",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Steve_Miller_Band.txt"
+  },
+  {
+    "title": "Rod Stewart",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Rod_Stewart.txt"
+  },
+  {
+    "title": "Sting (musician)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sting_(musician).txt"
+  },
+  {
+    "title": "The Stone Roses",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Stone_Roses.txt"
+  },
+  {
+    "title": "Stone Sour",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Stone_Sour.txt"
+  },
+  {
+    "title": "Stone Temple Pilots",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Stone_Temple_Pilots.txt"
+  },
+  {
+    "title": "The Strokes",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Strokes.txt"
+  },
+  {
+    "title": "Styx (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Styx_(band).txt"
+  },
+  {
+    "title": "Sublime (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sublime_(band).txt"
+  },
+  {
+    "title": "Sublime with Rome",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sublime_with_Rome.txt"
+  },
+  {
+    "title": "Sum 41",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Sum_41.txt"
+  },
+  {
+    "title": "Supertramp",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Supertramp.txt"
+  },
+  {
+    "title": "Survivor (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Survivor_(band).txt"
+  },
+  {
+    "title": "The Sweet",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Sweet.txt"
+  },
+  {
+    "title": "System of a Down",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/System_of_a_Down.txt"
+  },
+  {
+    "title": "T. Rex (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/T._Rex_(band).txt"
+  },
+  {
+    "title": "Talking Heads",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Talking_Heads.txt"
+  },
+  {
+    "title": "James Taylor",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/James_Taylor.txt"
+  },
+  {
+    "title": "Ten Years After",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ten_Years_After.txt"
+  },
+  {
+    "title": "Tenacious D",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Tenacious_D.txt"
+  },
+  {
+    "title": "Tesla (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Tesla_(band).txt"
+  },
+  {
+    "title": "Theory of a Deadman",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Theory_of_a_Deadman.txt"
+  },
+  {
+    "title": "Thin Lizzy",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Thin_Lizzy.txt"
+  },
+  {
+    "title": "Third Eye Blind",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Third_Eye_Blind.txt"
+  },
+  {
+    "title": "Thirty Seconds to Mars",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Thirty_Seconds_to_Mars.txt"
+  },
+  {
+    "title": "George Thorogood",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/George_Thorogood.txt"
+  },
+  {
+    "title": "Thousand Foot Krutch",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Thousand_Foot_Krutch.txt"
+  },
+  {
+    "title": "Three Days Grace",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Three_Days_Grace.txt"
+  },
+  {
+    "title": "Three Dog Night",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Three_Dog_Night.txt"
+  },
+  {
+    "title": "Tool (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Tool_(band).txt"
+  },
+  {
+    "title": "Toto (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Toto_(band).txt"
+  },
+  {
+    "title": "Traffic (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Traffic_(band).txt"
+  },
+  {
+    "title": "The Tragically Hip",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Tragically_Hip.txt"
+  },
+  {
+    "title": "Train (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Train_(band).txt"
+  },
+  {
+    "title": "Traveling Wilburys",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Traveling_Wilburys.txt"
+  },
+  {
+    "title": "Travis (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Travis_(band).txt"
+  },
+  {
+    "title": "Trivium (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Trivium_(band).txt"
+  },
+  {
+    "title": "Twenty One Pilots",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Twenty_One_Pilots.txt"
+  },
+  {
+    "title": "Twisted Sister",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Twisted_Sister.txt"
+  },
+  {
+    "title": "U2",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/U2.txt"
+  },
+  {
+    "title": "UB40",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/UB40.txt"
+  },
+  {
+    "title": "Uriah Heep (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Uriah_Heep_(band).txt"
+  },
+  {
+    "title": "The Used",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Used.txt"
+  },
+  {
+    "title": "Steve Vai",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Steve_Vai.txt"
+  },
+  {
+    "title": "Ritchie Valens",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Ritchie_Valens.txt"
+  },
+  {
+    "title": "Vampire Weekend",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Vampire_Weekend.txt"
+  },
+  {
+    "title": "Van Halen",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Van_Halen.txt"
+  },
+  {
+    "title": "Van Zant (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Van_Zant_(band).txt"
+  },
+  {
+    "title": "Stevie Ray Vaughan",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Stevie_Ray_Vaughan.txt"
+  },
+  {
+    "title": "Velvet Revolver",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Velvet_Revolver.txt"
+  },
+  {
+    "title": "The Velvet Underground",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Velvet_Underground.txt"
+  },
+  {
+    "title": "The Verve",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Verve.txt"
+  },
+  {
+    "title": "Gene Vincent",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Gene_Vincent.txt"
+  },
+  {
+    "title": "Volbeat",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Volbeat.txt"
+  },
+  {
+    "title": "Joe Walsh",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Joe_Walsh.txt"
+  },
+  {
+    "title": "Warrant (American band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Warrant_(American_band).txt"
+  },
+  {
+    "title": "W.A.S.P. (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/W.A.S.P._(band).txt"
+  },
+  {
+    "title": "Weezer",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Weezer.txt"
+  },
+  {
+    "title": "Jack White",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Jack_White.txt"
+  },
+  {
+    "title": "The White Stripes",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_White_Stripes.txt"
+  },
+  {
+    "title": "White Zombie (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/White_Zombie_(band).txt"
+  },
+  {
+    "title": "Whitesnake",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Whitesnake.txt"
+  },
+  {
+    "title": "The Who",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Who.txt"
+  },
+  {
+    "title": "Paul McCartney and Wings",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Paul_McCartney_and_Wings.txt"
+  },
+  {
+    "title": "Steve Winwood",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Steve_Winwood.txt"
+  },
+  {
+    "title": "X (American band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/X_(American_band).txt"
+  },
+  {
+    "title": "X Ambassadors",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/X_Ambassadors.txt"
+  },
+  {
+    "title": "The Yardbirds",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Yardbirds.txt"
+  },
+  {
+    "title": "Yes (band)",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Yes_(band).txt"
+  },
+  {
+    "title": "Neil Young",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Neil_Young.txt"
+  },
+  {
+    "title": "Frank Zappa",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Frank_Zappa.txt"
+  },
+  {
+    "title": "Rob Zombie",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/Rob_Zombie.txt"
+  },
+  {
+    "title": "The Zombies",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/The_Zombies.txt"
+  },
+  {
+    "title": "ZZ Top",
+    "status": "ok",
+    "file": "data/rock_performers_wikitext/ZZ_Top.txt"
+  }
+]
